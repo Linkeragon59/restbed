@@ -1,4 +1,3 @@
-
 [submodule "dependency/asio"]
 	path = dependency/asio
 	url = https://github.com/Corvusoft/asio-dependency.git
